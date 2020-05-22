@@ -1,2 +1,2 @@
 # Hello-Github
-Week 1 Assignment
+adds a python script that prints a message greeting Github
